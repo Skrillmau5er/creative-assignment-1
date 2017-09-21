@@ -42,6 +42,9 @@ button{
   margin-top: 8px;
   margin-bottom: 8px;
 }
+#colors{
+  text-align: center;
+}
 body{
   background-image: url("http://inside.unbounce.com/wp-content/uploads/pattern-abstract-hd-wallpaper-1920x1200-6110.jpg");
   background-size: 100%;
