@@ -1,23 +1,23 @@
 header{
-  background-color: #9999ff;
-  padding: 5px;
+  padding: 10px;
   color:white;
-  font-size: 28px;
+  font-size: 36px;
   padding-left:20px;
+  text-align:center; 
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
 }
 
 footer{
-  background-color:#9999ff;
+  text-align:center;
   padding: 10px;
   color:white;
   font-size: 18px;
 }
 
 #canvas{
-  border: 5px solid black;
   border-radius: 5px;
   margin-top: 5px;
-  background-color: #E5E7E9;
+  background-color: white;
   
 }
 #canvas_container{
@@ -33,20 +33,18 @@ h1{
 button{
   background-color:#555555;
   color: white;
-  padding: 15px 32px;
+  padding: 10px 15px;
   text-align:center;
   display:inline-block;
   font-size: 16px;
+  font-family:'Trebuchet MS';
   border:none;
   margin-top: 8px;
   margin-bottom: 8px;
 }
 body{
-  background-color: #aaaaaa;
+  background-image: url("http://inside.unbounce.com/wp-content/uploads/pattern-abstract-hd-wallpaper-1920x1200-6110.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat; 
   margin:0px;
-}
-
-img{
-  z-index:2;
-  width:400;
 }
